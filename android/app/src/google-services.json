@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031797397028",
+    "firebase_url": "https://sample-ab3b0.firebaseio.com",
+    "project_id": "sample-ab3b0",
+    "storage_bucket": "sample-ab3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031797397028:android:c52d5bfcd5c6dccd896ab1",
+        "android_client_info": {
+          "package_name": "kr.co.vitus.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031797397028-r50h4n70nb7vqtnh6um2hb26ca75m7t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT8UhCr4kTAmt29xoT-0TnJJP5CzdkKA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031797397028-r50h4n70nb7vqtnh6um2hb26ca75m7t8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031797397028-oco6148fvpjg20fa5bbdvk4it56r8cmo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.jurisdoc.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
